@@ -1,0 +1,8 @@
+C:\Users\Amandi Manamperi\Documents\C#\prctical01.Q2\prctical01.Q2\bin\Debug\prctical01.Q2.exe.config
+C:\Users\Amandi Manamperi\Documents\C#\prctical01.Q2\prctical01.Q2\bin\Debug\prctical01.Q2.exe
+C:\Users\Amandi Manamperi\Documents\C#\prctical01.Q2\prctical01.Q2\bin\Debug\prctical01.Q2.pdb
+C:\Users\Amandi Manamperi\Documents\C#\prctical01.Q2\prctical01.Q2\obj\Debug\prctical01.Q2.csproj.AssemblyReference.cache
+C:\Users\Amandi Manamperi\Documents\C#\prctical01.Q2\prctical01.Q2\obj\Debug\prctical01.Q2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amandi Manamperi\Documents\C#\prctical01.Q2\prctical01.Q2\obj\Debug\prctical01.Q2.csproj.CoreCompileInputs.cache
+C:\Users\Amandi Manamperi\Documents\C#\prctical01.Q2\prctical01.Q2\obj\Debug\prctical01.Q2.exe
+C:\Users\Amandi Manamperi\Documents\C#\prctical01.Q2\prctical01.Q2\obj\Debug\prctical01.Q2.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pactical01.Q4", "pactical01.Q4\pactical01.Q4.csproj", "{B2670DDC-5692-45FF-8EAC-712CA958A9FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2670DDC-5692-45FF-8EAC-712CA958A9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2670DDC-5692-45FF-8EAC-712CA958A9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2670DDC-5692-45FF-8EAC-712CA958A9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2670DDC-5692-45FF-8EAC-712CA958A9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6DE3E46-E1C9-4296-885C-E059C9FBBFF8}
+	EndGlobalSection
+EndGlobal
