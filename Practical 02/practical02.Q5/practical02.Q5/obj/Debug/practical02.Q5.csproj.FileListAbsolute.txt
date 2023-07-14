@@ -1,0 +1,8 @@
+C:\Users\Amandi Manamperi\Documents\C#\practical02.Q5\practical02.Q5\bin\Debug\practical02.Q5.exe.config
+C:\Users\Amandi Manamperi\Documents\C#\practical02.Q5\practical02.Q5\bin\Debug\practical02.Q5.exe
+C:\Users\Amandi Manamperi\Documents\C#\practical02.Q5\practical02.Q5\bin\Debug\practical02.Q5.pdb
+C:\Users\Amandi Manamperi\Documents\C#\practical02.Q5\practical02.Q5\obj\Debug\practical02.Q5.csproj.AssemblyReference.cache
+C:\Users\Amandi Manamperi\Documents\C#\practical02.Q5\practical02.Q5\obj\Debug\practical02.Q5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amandi Manamperi\Documents\C#\practical02.Q5\practical02.Q5\obj\Debug\practical02.Q5.csproj.CoreCompileInputs.cache
+C:\Users\Amandi Manamperi\Documents\C#\practical02.Q5\practical02.Q5\obj\Debug\practical02.Q5.exe
+C:\Users\Amandi Manamperi\Documents\C#\practical02.Q5\practical02.Q5\obj\Debug\practical02.Q5.pdb
