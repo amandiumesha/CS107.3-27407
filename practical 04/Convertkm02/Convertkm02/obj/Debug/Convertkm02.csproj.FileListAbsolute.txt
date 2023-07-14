@@ -1,0 +1,8 @@
+C:\Users\Amandi Manamperi\Documents\C#\Convertkm02\Convertkm02\bin\Debug\Convertkm02.exe.config
+C:\Users\Amandi Manamperi\Documents\C#\Convertkm02\Convertkm02\bin\Debug\Convertkm02.exe
+C:\Users\Amandi Manamperi\Documents\C#\Convertkm02\Convertkm02\bin\Debug\Convertkm02.pdb
+C:\Users\Amandi Manamperi\Documents\C#\Convertkm02\Convertkm02\obj\Debug\Convertkm02.csproj.AssemblyReference.cache
+C:\Users\Amandi Manamperi\Documents\C#\Convertkm02\Convertkm02\obj\Debug\Convertkm02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amandi Manamperi\Documents\C#\Convertkm02\Convertkm02\obj\Debug\Convertkm02.csproj.CoreCompileInputs.cache
+C:\Users\Amandi Manamperi\Documents\C#\Convertkm02\Convertkm02\obj\Debug\Convertkm02.exe
+C:\Users\Amandi Manamperi\Documents\C#\Convertkm02\Convertkm02\obj\Debug\Convertkm02.pdb
